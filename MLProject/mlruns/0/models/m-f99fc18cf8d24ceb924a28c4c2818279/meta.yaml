@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ARSELLYA DWI/Workflow-CI/MLProject/mlruns/0/models/m-f99fc18cf8d24ceb924a28c4c2818279/artifacts
+creation_timestamp: 1777200312164
+experiment_id: '0'
+last_updated_timestamp: 1777200315269
+model_id: m-f99fc18cf8d24ceb924a28c4c2818279
+model_type: null
+name: model
+source_run_id: 8a0ecc1ac6c84e15b520d6c88be81b28
+status: 2
+status_message: null
